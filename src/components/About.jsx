@@ -21,7 +21,7 @@ function About() {
 
                             <div className="flex items-center justify-center">
 
-                                <img src="./images/me.png" alt="No Img" className='w-72 h-72 rounded-full border-4 p-2 border-violet-800 mix-blend-screen' />
+                                <img src="./images/Pro.jpg" alt="No Img" className='w-72 h-72 rounded-lg object-cover border-2 p-2 border-violet-800' />
 
                             </div>
 
