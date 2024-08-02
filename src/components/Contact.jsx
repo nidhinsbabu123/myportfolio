@@ -24,7 +24,7 @@ function Contact() {
             initial={{ opacity: 0, x: -100 }}
             transition={{ duration: 1 }}
             // my-4 flex items-center justify-center gap-1
-            className='my-4 flex items-center justify-center gap-1'><MdLocationPin />{CONTACT.address}
+            className='hidden'><MdLocationPin />{CONTACT.address}
           </motion.p>
           <motion.p
             whileInView={{ opacity: 1, x: 0 }}
