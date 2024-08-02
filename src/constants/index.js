@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
 
 
 
@@ -13,7 +14,7 @@ export const ABOUT_TEXT = `" I am a dedicated and versatile frontend developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "Aug 2023 - Apr 2024",
     role: "MERN Stack Developer Intern",
     company: "Luminar Technolab",
     description: `I have developed several responsive web applications which helped me to upgrade my coding skills in HTML, CSS, JavaScript and familiarize myself with advanced coding techniques in Bootstrap, React.js, Node.js, Express.js, MongoDB etc. Furthermore, I am upskilling myself by learning Next.JS and Tailwind CSS by utilizing online resources. This experience made me capable of creating web applications independently, which I have posted in my LinkedIn and GitHub accounts. The internship program also gave me the opportunity to collaborate with other developers to implement scalable solutions, which boosted my team playing, leadership and communication skills and made me more responsible for completing tasks within the specified time frame.`,
@@ -44,6 +45,12 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    title: "Todo-App",
+    image: project5,
+    description: "A Next.js based full-stack application, integrated with MongoDB, to store and add tasks to a Todo list. All basic CRUD operations were executed successfully.",
+    technologies: ["HTML", "CSS", "Tailwind CSS", "Next.js", "Node.js", "MongoDB"],
+  },
+  {
     title: "E-Commerce Website",
     image: project1,
     description:
@@ -61,14 +68,14 @@ export const PROJECTS = [
     title: "Mediaplayer Web App",
     image: project3,
     description:
-      "React based application with seamless integration of new videos, playback controls and the ability to create personalised categories and watch history",
+      "React based application with seamless integration of new videos, playback controls and the ability to create personalised categories and watch history.",
     technologies: ["HTML", "CSS", "Bootstrap", "React.js"],
   },
   {
     title: "Personal Portfolio",
     image: project4,
     description:
-      "A personal portfolio website showcasing projects, skills, personal details and contact information",
+      "A personal portfolio website showcasing projects, skills, personal details and contact information.",
     technologies: ["HTML", "CSS", "Tailwind CSS", "Framer Motion","React.js"],
   },
 ];

@@ -39,7 +39,7 @@ function About() {
 
                             <div className='lg:mt-16 text-center'>
 
-                            <a className='outline outline-violet-700 px-4 py-2 rounded hover:bg-violet-700 hover:font-bold flex items-center justify-center gap-2' href="./images/Nidhin S Babu.pdf" download="./images/Nidhin S Babu.pdf">Download Resume <FiDownload /></a>
+                            <a className='outline outline-violet-700 px-4 py-2 rounded-md hover:bg-violet-700 hover:font-bold flex items-center justify-center gap-2' href="./images/Nidhin S Babu.pdf" download="./images/Nidhin S Babu.pdf">Download Resume <FiDownload /></a>
 
                             </div>
 
