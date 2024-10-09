@@ -81,7 +81,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Kannur, Kerala, India ",
-  phoneNo: "+91 9446564151 ",
+  address: "Poland ",
+  phoneNo: "+48 579119341",
   email: "nidhinsbabu456@gmail.com",
 };
