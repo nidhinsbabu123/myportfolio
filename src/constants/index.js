@@ -14,11 +14,18 @@ export const ABOUT_TEXT = `" I am a dedicated and versatile frontend developer w
 
 export const EXPERIENCES = [
   {
+    year: "Present",
+    role: "Masters in Computer Engineering",
+    company: "Warsaw Management University, Poland",
+    description: `I have joined in my Master's in Computer Engineering.`,
+    technologies: ["HTML","CSS","Javascript"],
+  },
+  {
     year: "Aug 2023 - Apr 2024",
     role: "MERN Stack Developer Intern",
     company: "Luminar Technolab",
     description: `I have developed several responsive web applications which helped me to upgrade my coding skills in HTML, CSS, JavaScript and familiarize myself with advanced coding techniques in Bootstrap, React.js, Node.js, Express.js, MongoDB etc. Furthermore, I am upskilling myself by learning Next.JS and Tailwind CSS by utilizing online resources. This experience made me capable of creating web applications independently, which I have posted in my LinkedIn and GitHub accounts. The internship program also gave me the opportunity to collaborate with other developers to implement scalable solutions, which boosted my team playing, leadership and communication skills and made me more responsible for completing tasks within the specified time frame.`,
-    technologies: ["HTML","CSS","Javascript", "React.js", "Node.js", "mongoDB"],
+    technologies: ["HTML","CSS","Javascript", "React.js", "Next.js", "Node.js", "mongoDB"],
   },
   {
     year: "2016 - 2018",
